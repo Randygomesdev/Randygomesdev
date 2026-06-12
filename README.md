@@ -14,7 +14,7 @@
 - 💻 Fullstack Developer specializing in modern web technologies
 - 📍 Based in Florianópolis, Santa Catarina
 - 🎯 Focused on building scalable and efficient applications
-- 📫 Reach me at: **raandy.gc@gmail.com**
+- 📫 Reach me at: **randygomesdev@gmail.com**
 
 </td>
 <td width="50%">
@@ -71,7 +71,7 @@
   <a href="https://www.linkedin.com/in/randygomesdev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:raandy.gc@gmail.com">
+  <a href="mailto:randygomesdev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.instagram.com/gorandy_" target="_blank">
