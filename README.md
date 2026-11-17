@@ -1,53 +1,53 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/>
 
-<h1 align="center">Hi 👋, I'm Randy Gomes</h1>
-<h3 align="center">Full Stack Developer at Innker Tecnologia · Florianópolis, SC - Brazil 🇧🇷</h3>
+<h1 align="center">Olá 👋, sou Randy Gomes</h1>
+<h3 align="center">Desenvolvedor Full Stack na Innker Tecnologia · Florianópolis, SC 🇧🇷</h3>
 
 <br>
 
-## 🚀 About Me
+## 🚀 Sobre mim
 
 <table border="0">
 <tr>
 <td width="50%" valign="top">
 
-- 💻 Full Stack Developer building and maintaining web products at Innker Tecnologia
-- 📍 Based in Florianópolis, Santa Catarina
-- 🎯 I bring over ten years of operations and business management experience to software development
-- 🌐 [Portfolio](https://www.randygomes.dev.br/)
-- 📫 Reach me at: **contato@innker.com.br**
+- 💻 Desenvolvo e mantenho produtos web na Innker Tecnologia
+- 📍 Moro em Florianópolis, Santa Catarina
+- 🎯 Aplico mais de dez anos de experiência em gestão de operações e negócios ao desenvolvimento de software
+- 🌐 [Portfólio](https://www.randygomes.dev.br/)
+- 📫 Contato **contato@innker.com.br**
 
 </td>
 <td width="50%">
-<img alt="Coding" width="100%" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
+<img alt="Ilustração de desenvolvimento" width="100%" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
 </td>
 </tr>
 </table>
 
 <br>
 
-## 🚀 Featured Projects
+## 🚀 Projetos em destaque
 
-- **[Setoriza](https://setoriza.online/)** grew from a portfolio project into a SaaS product in production with paying subscribers. Teams share a WhatsApp inbox, route conversations by department, and automate triage. Built with Angular and NestJS.
-- **[Easypet](https://easypet.innker.com.br/)** connects pet owners and service providers through online booking, pet health records, and tools for managing staff and appointments. Built with React and Spring Boot. [Source code](https://github.com/Randygomesdev/Easypet)
-- **[Innker Tecnologia](https://www.innker.com.br/)** is the software studio’s website, featuring its services, products, an interactive Easypet demo, and a digital brand guide. Built with Angular and Tailwind CSS.
-
-<br>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=randygomesdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=randygomesdev&layout=compact&langs_count=8&theme=dracula"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=randygomesdev&theme=dracula" alt="Randy's streak"/>
-</div>
+- **[Setoriza](https://setoriza.online/)** Nasceu como projeto de portfólio e evoluiu para um SaaS em produção com clientes pagantes. As equipes compartilham uma caixa de entrada do WhatsApp, encaminham conversas por setor e automatizam a triagem. Desenvolvido com Angular e NestJS.
+- **[Easypet](https://easypet.innker.com.br/)** Conecta tutores a clínicas e pet shops, com agendamento online, prontuários dos pets e ferramentas para gerenciar profissionais e atendimentos. Desenvolvido com React e Spring Boot. [Código-fonte](https://github.com/Randygomesdev/Easypet)
+- **[Innker Tecnologia](https://www.innker.com.br/)** Site institucional da software house, com serviços, produtos, uma demonstração navegável do Easypet e um guia digital de identidade visual. Desenvolvido com Angular e Tailwind CSS.
 
 <br>
 
-## 🛠️ Tech Stack
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=randygomesdev&show_icons=true&theme=dracula&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=randygomesdev&layout=compact&locale=pt-br&theme=dracula"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=randygomesdev&theme=dracula&locale=pt_BR" alt="Sequência de contribuições"/>
+</div>
+
+<br>
+
+## 🛠️ Stack técnica
 
 ### Frontend
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -64,7 +64,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
-### Database & Infrastructure
+### Banco de dados e infraestrutura
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white)
@@ -73,7 +73,7 @@
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-### Tools & Environment
+### Ferramentas de desenvolvimento
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -81,7 +81,7 @@
 
 <br>
 
-## 📱 Connect with Me
+## 📱 Contato
 
 <div align="center">
   <a href="https://www.linkedin.com/in/randygomesdev/" target="_blank">
@@ -98,7 +98,7 @@
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=randygomesdev&color=8F0D87&style=for-the-badge" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=randygomesdev&color=8F0D87&style=for-the-badge" alt="Visualizações do perfil"/>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
