@@ -1,24 +1,104 @@
-# Randy Gomes
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/>
 
-Full Stack Developer at **Innker Tecnologia** · Florianópolis, Brazil
+<h1 align="center">Hi 👋, I'm Randy Gomes</h1>
+<h3 align="center">Full Stack Developer at Innker Tecnologia · Florianópolis, SC - Brazil 🇧🇷</h3>
 
-I build web products from the first workflow to production. Before working in software, I spent more than ten years in operations and business management. That experience shapes how I design tools for teams and decide what to automate.
+<br>
 
-[Portfolio](https://www.randygomes.dev.br/) · [LinkedIn](https://www.linkedin.com/in/randygomesdev/) · [contato@innker.com.br](mailto:contato@innker.com.br)
+## 🚀 About Me
 
-## Featured projects
+<table border="0">
+<tr>
+<td width="50%" valign="top">
 
-- **[Setoriza](https://setoriza.online/)** started as a portfolio project and grew into a SaaS product with paying subscribers. Teams share a WhatsApp inbox, route conversations to the right department, and automate triage. Built with Angular and NestJS.
-- **[Easypet](https://easypet.innker.com.br/)** connects pet owners with clinics and pet shops. Owners can book services and track pet health records, while partners manage schedules, staff, and appointments. Built with React and Spring Boot. [Source code](https://github.com/Randygomesdev/Easypet)
-- **[Innker Tecnologia](https://www.innker.com.br/)** is the software studio’s website, where visitors can explore its services and products. It also includes an interactive Easypet demo and a digital brand guide. Built with Angular and Tailwind CSS.
+- 💻 Full Stack Developer building and maintaining web products at Innker Tecnologia
+- 📍 Based in Florianópolis, Santa Catarina
+- 🎯 I bring over ten years of operations and business management experience to software development
+- 🌐 [Portfolio](https://www.randygomes.dev.br/)
+- 📫 Reach me at: **contato@innker.com.br**
 
-## Tech stack
+</td>
+<td width="50%">
+<img alt="Coding" width="100%" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
+</td>
+</tr>
+</table>
 
-- **Frontend** · Angular, React, TypeScript, RxJS, Vite, Tailwind CSS
-- **Backend** · Node.js, NestJS, Java, Spring Boot, REST APIs, WebSocket
-- **Data and messaging** · PostgreSQL, MySQL, Redis, RabbitMQ
-- **Delivery and testing** · Docker, GitHub Actions, Vercel, Vitest, Playwright
+<br>
 
-## GitHub activity
+## 🚀 Featured Projects
 
-![GitHub statistics](https://github-readme-stats-sigma-five.vercel.app/api?username=randygomesdev&show_icons=true&theme=dracula)
+- **[Setoriza](https://setoriza.online/)** grew from a portfolio project into a SaaS product in production with paying subscribers. Teams share a WhatsApp inbox, route conversations by department, and automate triage. Built with Angular and NestJS.
+- **[Easypet](https://easypet.innker.com.br/)** connects pet owners and service providers through online booking, pet health records, and tools for managing staff and appointments. Built with React and Spring Boot. [Source code](https://github.com/Randygomesdev/Easypet)
+- **[Innker Tecnologia](https://www.innker.com.br/)** is the software studio’s website, featuring its services, products, an interactive Easypet demo, and a digital brand guide. Built with Angular and Tailwind CSS.
+
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=randygomesdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=randygomesdev&layout=compact&langs_count=8&theme=dracula"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=randygomesdev&theme=dracula" alt="Randy's streak"/>
+</div>
+
+<br>
+
+## 🛠️ Tech Stack
+
+### Frontend
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+
+### Database & Infrastructure
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white)
+
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+### Tools & Environment
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+<br>
+
+## 📱 Connect with Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/randygomesdev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:contato@innker.com.br">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.instagram.com/gorandy_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=randygomesdev&color=8F0D87&style=for-the-badge" alt="Profile views"/>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
